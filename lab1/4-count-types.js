@@ -11,3 +11,5 @@ for (const item of arr) {
 }
 
 console.log(countTypes); 
+
+module.exports = { countTypes };
